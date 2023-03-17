@@ -1,0 +1,7 @@
+<diagram program="umletino" version="15.0.0"><zoom_level>18</zoom_level><element><id>UMLClass</id><coordinates><x>172</x><y>72</y><w>234</w><h>126</h></coordinates><panel_attributes>App.py
+--
+billista[bil]
+looping: boolean
+--
+main(): program
+</panel_attributes><additional_attributes></additional_attributes></element></diagram>
