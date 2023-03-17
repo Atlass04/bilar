@@ -1,7 +1,18 @@
-<diagram program="umletino" version="15.0.0"><zoom_level>18</zoom_level><element><id>UMLClass</id><coordinates><x>172</x><y>72</y><w>234</w><h>126</h></coordinates><panel_attributes>App.py
+<diagram program="umletino" version="15.0.0"><zoom_level>10</zoom_level><element><id>UMLClass</id><coordinates><x>130</x><y>110</y><w>140</w><h>120</h></coordinates><panel_attributes>App.py
 --
 billista[bil]
 looping: boolean
 --
 main(): program
-</panel_attributes><additional_attributes></additional_attributes></element></diagram>
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>370</x><y>110</y><w>100</w><h>310</h></coordinates><panel_attributes>bil
+--
+fabrikat.string
+color.string
+lager.int
+--
+_init_constructor
+setFabrikat(str)
+getFabrikat():str
+getColor():str
+getLager():int
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>260</x><y>130</y><w>130</w><h>30</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>110;10;10;10</additional_attributes></element></diagram>
